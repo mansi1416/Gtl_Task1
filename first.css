@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image:url(background.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    h1 {
+    font-size: 36px; 
+    color: #D32F2F;  /* A deeper red color for better contrast */
+    text-align: center; /* Centered the heading */
+    margin-top: 20px;  /* Added some space above the heading */
+}
+td h3{ 
+    color: #7398a3;}
+
+h2 {
+    font-size: 24px;  
+    text-align: center; 
+    color: #73c43d; 
+}
+
+h3 {
+    font-size: 18px;  
+    text-align: center; 
+    color: #333; 
+}
+
+button {
+    background-color: #127bc2f6; 
+    color: rgb(39, 36, 36);
+    font-size: 16px;
+    padding: 10px 20px;
+    border:none;
+    cursor: pointer;
+    border-radius: 0%;
+    
+}
+
+button:hover {
+    background-color: #ffd05093; 
+}
