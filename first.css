@@ -7,9 +7,9 @@ body {
     }
     h1 {
     font-size: 36px; 
-    color: #D32F2F;  /* A deeper red color for better contrast */
-    text-align: center; /* Centered the heading */
-    margin-top: 20px;  /* Added some space above the heading */
+    color: #D32F2F;  
+    text-align: center; 
+    margin-top: 20px;  
 }
 td h3{ 
     color: #7398a3;}
